@@ -12,3 +12,4 @@ Notes and usage details for blocky-ui.
 - link the usage section
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
